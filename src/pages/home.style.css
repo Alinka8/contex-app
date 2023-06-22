@@ -1,0 +1,18 @@
+.home-page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 5rem;
+}
+
+.home-page--light {
+  background-color: rgb(140, 187, 228);
+  color: blueviolet;
+}
+
+.home-page--dark {
+  background-color: black;
+  color: aliceblue;
+}
